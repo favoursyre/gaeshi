@@ -1,4 +1,6 @@
-# VM Ware Detector
+# Gaeshi VM Ware Detector
+
+![image](https://drive.google.com/uc?export=download&id=1_LuPiUhjmEdpvV3uOlazJaUf1duNmOVY)
 
 ## Disclaimer
 
@@ -15,7 +17,7 @@ This script is for educational purposes only, I don't endorse or promote it's il
 
 ## Overview
 
-This script checks to see if the software is running in a virtual machine
+This script checks to see if a software is running in a virtual machine
 
 ## Features
 

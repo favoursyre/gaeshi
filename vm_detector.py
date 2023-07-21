@@ -66,7 +66,7 @@ def status():
         
 if __name__ == '__main__':
     #Commencing the code
-    print("Izanagi Virtual Machine Detector \n")
+    print("Gaeshi Virtual Machine Detector \n")
 
     detect = status()
     print(f"VM Status: {detect}")
